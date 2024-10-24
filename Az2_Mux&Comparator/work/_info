@@ -1,0 +1,800 @@
+m255
+K4
+z2
+!s11e vcom 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/ModelSim/examples
+T_opt
+!s110 1729709050
+VhX:>ImG<z8<bYQjBnYI3d3
+04 21 4 work mux_4to1_selection_tb test 1
+=1-24fe9a00309f-671943f9-37d-940
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1729711794
+VcGCZ3F4z@nVMfGmcO61f]2
+04 18 10 work comparator_4bit_tb behavioral 1
+=1-24fe9a00309f-67194eb2-277-31f0
+R1
+R2
+n@_opt1
+R3
+T_opt2
+!s110 1729711527
+VNfk9OZG`@MbIIV4IUcGGR0
+04 18 10 work comparator_1bit_tb behavioral 1
+=1-24fe9a00309f-67194da7-e-470c
+R1
+R2
+n@_opt2
+R3
+R0
+Eand_gate
+Z4 w1729701626
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 2
+Z7 dD:/__ModelSim-Projects/Az2_Mux&Comparator
+Z8 8D:\__ModelSim-Projects\Az2_Mux&Comparator\and_gate.vhd
+Z9 FD:\__ModelSim-Projects\Az2_Mux&Comparator\and_gate.vhd
+l0
+L4 1
+VK<k8?Z8J?JJRWziB7<Ven1
+!s100 Z@:zIA8Bf7@8gT_g7ZL@F2
+Z10 OL;C;2020.4;71
+32
+Z11 !s110 1729702888
+!i10b 1
+Z12 !s108 1729702888.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-Projects\Az2_Mux&Comparator\and_gate.vhd|
+Z14 !s107 D:\__ModelSim-Projects\Az2_Mux&Comparator\and_gate.vhd|
+!i113 0
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Agatelevel
+R5
+R6
+DEx4 work 8 and_gate 0 22 K<k8?Z8J?JJRWziB7<Ven1
+!i122 2
+l12
+L11 4
+Vo5K40OVFf<b7k?X;fEQnQ0
+!s100 hlDAHlRjPWOillm=eAAh>0
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 0
+R15
+R16
+Eand_gate_tb
+Z17 w1729704496
+R5
+R6
+!i122 17
+R7
+Z18 8D:\__ModelSim-Projects\Az2_Mux&Comparator\and_gate_tb.vhd
+Z19 FD:\__ModelSim-Projects\Az2_Mux&Comparator\and_gate_tb.vhd
+l0
+L4 1
+V`24I7naX3gMhJ_N0^Ho?92
+!s100 [SFH1ml4V4hE[R3U>zAn;0
+R10
+32
+Z20 !s110 1729704502
+!i10b 1
+Z21 !s108 1729704502.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-Projects\Az2_Mux&Comparator\and_gate_tb.vhd|
+Z23 !s107 D:\__ModelSim-Projects\Az2_Mux&Comparator\and_gate_tb.vhd|
+!i113 0
+R15
+R16
+Atestbench
+R5
+R6
+DEx4 work 11 and_gate_tb 0 22 `24I7naX3gMhJ_N0^Ho?92
+!i122 17
+l18
+L7 24
+VLej]:GnI]kVl4XJCM=]NA3
+!s100 noYQ><W99>WlVdW0bg<?M3
+R10
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 0
+R15
+R16
+Ecomparator_1bit
+Z24 w1729709471
+R5
+R6
+!i122 30
+R7
+Z25 8D:\__ModelSim-Projects\Az2_Mux&Comparator\comparator_1bit.vhd
+Z26 FD:\__ModelSim-Projects\Az2_Mux&Comparator\comparator_1bit.vhd
+l0
+L4 1
+V>2fEK?3_7HH0MX?Ij`hdH3
+!s100 ;k>_iAXBcLmQnYlXV[Zeb1
+R10
+32
+Z27 !s110 1729709476
+!i10b 1
+Z28 !s108 1729709476.000000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-Projects\Az2_Mux&Comparator\comparator_1bit.vhd|
+Z30 !s107 D:\__ModelSim-Projects\Az2_Mux&Comparator\comparator_1bit.vhd|
+!i113 0
+R15
+R16
+Abehavioral
+R5
+R6
+DEx4 work 15 comparator_1bit 0 22 >2fEK?3_7HH0MX?Ij`hdH3
+!i122 30
+l15
+L14 6
+VhdmdhcLGO::@Z=MR2Qf:Z1
+!s100 4^6Yb:Qa>oVEXP<g^?A4D1
+R10
+32
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 0
+R15
+R16
+Ecomparator_1bit_tb
+Z31 w1729711494
+R5
+R6
+!i122 36
+R7
+Z32 8D:\__ModelSim-Projects\Az2_Mux&Comparator\comparator_1bit_tb.vhd
+Z33 FD:\__ModelSim-Projects\Az2_Mux&Comparator\comparator_1bit_tb.vhd
+l0
+L4 1
+VhW`P]eQ8K5WgMizH83D9Q2
+!s100 4^fi?S<bEC1?[B1fUggg01
+R10
+32
+Z34 !s110 1729711499
+!i10b 1
+Z35 !s108 1729711499.000000
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-Projects\Az2_Mux&Comparator\comparator_1bit_tb.vhd|
+Z37 !s107 D:\__ModelSim-Projects\Az2_Mux&Comparator\comparator_1bit_tb.vhd|
+!i113 0
+R15
+R16
+Abehavioral
+R5
+R6
+DEx4 work 18 comparator_1bit_tb 0 22 hW`P]eQ8K5WgMizH83D9Q2
+!i122 36
+l22
+Z38 L7 25
+Vk6RXS`=:azkbJefeXH@o61
+!s100 R>K7ZSzOOVlXO[KbZoa7_2
+R10
+32
+R34
+!i10b 1
+R35
+R36
+R37
+!i113 0
+R15
+R16
+Ecomparator_4bit
+Z39 w1729711782
+R5
+R6
+!i122 37
+R7
+Z40 8D:\__ModelSim-Projects\Az2_Mux&Comparator\comparator_4bit.vhd
+Z41 FD:\__ModelSim-Projects\Az2_Mux&Comparator\comparator_4bit.vhd
+l0
+L4 1
+Vf:blj7HGLgIY5>__K_Njj1
+!s100 ]aWjZF3;3dKCE`bBU0XSN2
+R10
+32
+Z42 !s110 1729711786
+!i10b 1
+Z43 !s108 1729711786.000000
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-Projects\Az2_Mux&Comparator\comparator_4bit.vhd|
+Z45 !s107 D:\__ModelSim-Projects\Az2_Mux&Comparator\comparator_4bit.vhd|
+!i113 0
+R15
+R16
+Abehavioral
+R5
+R6
+DEx4 work 15 comparator_4bit 0 22 f:blj7HGLgIY5>__K_Njj1
+!i122 37
+l28
+L14 24
+V`j0oVmVm0oZ<XXd3n3mW70
+!s100 bU[E3eg1GhRYIaeg4YX6I0
+R10
+32
+R42
+!i10b 1
+R43
+R44
+R45
+!i113 0
+R15
+R16
+Ecomparator_4bit_tb
+Z46 w1729711308
+R5
+R6
+!i122 35
+R7
+Z47 8D:\__ModelSim-Projects\Az2_Mux&Comparator\comparator_4bit_tb.vhd
+Z48 FD:\__ModelSim-Projects\Az2_Mux&Comparator\comparator_4bit_tb.vhd
+l0
+L4 1
+VclCSHcR_UIU90Xd>TMEEW3
+!s100 J5chPBdj2T`Wh[^Ole1ae1
+R10
+32
+Z49 !s110 1729711314
+!i10b 1
+Z50 !s108 1729711314.000000
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-Projects\Az2_Mux&Comparator\comparator_4bit_tb.vhd|
+Z52 !s107 D:\__ModelSim-Projects\Az2_Mux&Comparator\comparator_4bit_tb.vhd|
+!i113 0
+R15
+R16
+Abehavioral
+R5
+R6
+DEx4 work 18 comparator_4bit_tb 0 22 clCSHcR_UIU90Xd>TMEEW3
+!i122 35
+l22
+R38
+V4CW]?X36VC<HN03]^g45O1
+!s100 fkEOH4Q8S;mR5BFb2>DR01
+R10
+32
+R49
+!i10b 1
+R50
+R51
+R52
+!i113 0
+R15
+R16
+Edecoder_2to4
+Z53 w1729703083
+R5
+R6
+!i122 6
+R7
+Z54 8D:\__ModelSim-Projects\Az2_Mux&Comparator\decoder_2-4.vhd
+Z55 FD:\__ModelSim-Projects\Az2_Mux&Comparator\decoder_2-4.vhd
+l0
+L3 1
+VIam5N^;H?0aVa?T6j=XT<3
+!s100 ?1[KDYFXU6S=Nf6igb]oa0
+R10
+32
+Z56 !s110 1729703088
+!i10b 1
+Z57 !s108 1729703088.000000
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-Projects\Az2_Mux&Comparator\decoder_2-4.vhd|
+Z59 !s107 D:\__ModelSim-Projects\Az2_Mux&Comparator\decoder_2-4.vhd|
+!i113 0
+R15
+R16
+Abehav
+R5
+R6
+DEx4 work 12 decoder_2to4 0 22 Iam5N^;H?0aVa?T6j=XT<3
+!i122 6
+l11
+L10 7
+VKTH8NK@2NYJnzlMNJ1E6P3
+!s100 n?<H8khN:X<9_OGBJJ7HA0
+R10
+32
+R56
+!i10b 1
+R57
+R58
+R59
+!i113 0
+R15
+R16
+Edecoder_2x4_tb
+Z60 w1729707420
+R5
+R6
+!i122 23
+R7
+Z61 8D:\__ModelSim-Projects\Az2_Mux&Comparator\decoder_2-4_tb.vhd
+Z62 FD:\__ModelSim-Projects\Az2_Mux&Comparator\decoder_2-4_tb.vhd
+l0
+L4 1
+Vd:3aB5?Jk?[hMEzd:J_XO1
+!s100 FjKdX=@<2SHn5jfom_ddT1
+R10
+32
+Z63 !s110 1729707426
+!i10b 1
+Z64 !s108 1729707426.000000
+Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-Projects\Az2_Mux&Comparator\decoder_2-4_tb.vhd|
+Z66 !s107 D:\__ModelSim-Projects\Az2_Mux&Comparator\decoder_2-4_tb.vhd|
+!i113 0
+R15
+R16
+Abehavioral
+R5
+R6
+DEx4 work 14 decoder_2x4_tb 0 22 d:3aB5?Jk?[hMEzd:J_XO1
+!i122 23
+l16
+L7 19
+VmNGlDR]i9<N<zgFfB=DeW0
+!s100 U=:3iaWJGfRZ=GcH`kR4d0
+R10
+32
+R63
+!i10b 1
+R64
+R65
+R66
+!i113 0
+R15
+R16
+Emux_16to1
+Z67 w1729708316
+R5
+R6
+!i122 26
+R7
+Z68 8D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_16-1.vhd
+Z69 FD:\__ModelSim-Projects\Az2_Mux&Comparator\mux_16-1.vhd
+l0
+L4 1
+VY^@]:Ink>d<;Eg]ZoUl2I0
+!s100 J4D5c@EI>hjVYeOmO]`oZ1
+R10
+32
+Z70 !s110 1729708375
+!i10b 1
+Z71 !s108 1729708375.000000
+Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_16-1.vhd|
+Z73 !s107 D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_16-1.vhd|
+!i113 0
+R15
+R16
+Abehav
+R5
+R6
+DEx4 work 9 mux_16to1 0 22 Y^@]:Ink>d<;Eg]ZoUl2I0
+!i122 26
+l23
+L12 18
+Vj?Id<dRo[eKFkHEVKSB`Z0
+!s100 M@>`0NTT1z^>gNlX@hSIH3
+R10
+32
+R70
+!i10b 1
+R71
+R72
+R73
+!i113 0
+R15
+R16
+Emux_16to1_tb
+Z74 w1729708569
+R5
+R6
+!i122 29
+R7
+Z75 8D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_16-1_tb.vhd
+Z76 FD:\__ModelSim-Projects\Az2_Mux&Comparator\mux_16-1_tb.vhd
+l0
+L4 1
+V^BU=l>hE0M2mI5F_GZ7540
+!s100 ijNQl1VA4TQ<5z@1<S9]B3
+R10
+32
+Z77 !s110 1729708573
+!i10b 1
+Z78 !s108 1729708573.000000
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_16-1_tb.vhd|
+Z80 !s107 D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_16-1_tb.vhd|
+!i113 0
+R15
+R16
+Abehavioral
+R5
+R6
+DEx4 work 12 mux_16to1_tb 0 22 ^BU=l>hE0M2mI5F_GZ7540
+!i122 29
+l19
+R38
+VXMPI9Q4UiYKkKz`h6P5bG0
+!s100 9Wc[AK<2@XoQT:Ya2?1kN0
+R10
+32
+R77
+!i10b 1
+R78
+R79
+R80
+!i113 0
+R15
+R16
+Emux_4to1
+Z81 w1729703171
+R5
+R6
+!i122 7
+R7
+Z82 8D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1.vhd
+Z83 FD:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1.vhd
+l0
+L4 1
+VHKcWQa19dWB;cR@;nMn;X2
+!s100 MgBliWgZVfID;kdz0`M^n1
+R10
+32
+Z84 !s110 1729703175
+!i10b 1
+Z85 !s108 1729703175.000000
+Z86 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1.vhd|
+Z87 !s107 D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1.vhd|
+!i113 0
+R15
+R16
+Abehav
+R5
+R6
+DEx4 work 8 mux_4to1 0 22 HKcWQa19dWB;cR@;nMn;X2
+!i122 7
+l30
+L12 26
+VMJSGbz8fI^i24C07Neh]?0
+!s100 m`Z3ID2Hg4WkNk`AVBR6P1
+R10
+32
+R84
+!i10b 1
+R85
+R86
+R87
+!i113 0
+R15
+R16
+Emux_4to1_condition
+Z88 w1729704356
+R5
+R6
+!i122 16
+R7
+Z89 8D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1_condition.vhd
+Z90 FD:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1_condition.vhd
+l0
+L4 1
+V:PK>U5SelU7P83TGX2]m91
+!s100 zMe5dG;82O0jW?KRKbm2n0
+R10
+32
+Z91 !s110 1729704362
+!i10b 1
+Z92 !s108 1729704362.000000
+Z93 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1_condition.vhd|
+Z94 !s107 D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1_condition.vhd|
+!i113 0
+R15
+R16
+Abehav
+R5
+R6
+DEx4 work 18 mux_4to1_condition 0 22 :PK>U5SelU7P83TGX2]m91
+!i122 16
+l13
+L12 7
+V<C7e=E<QC0>?O>PzYX`eY3
+!s100 =3dXz9RO3Pg:jfmTYgDT?0
+R10
+32
+R91
+!i10b 1
+R92
+R93
+R94
+!i113 0
+R15
+R16
+Emux_4to1_condition_tb
+Z95 w1729708458
+R5
+R6
+!i122 28
+R7
+Z96 8D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1_condition_tb.vhd
+Z97 FD:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1_condition_tb.vhd
+l0
+L4 1
+VDJ06Y@MCn4:X>`jRBd@LV3
+!s100 a[:eBVZoEYj1F<FYK_?em0
+R10
+32
+Z98 !s110 1729708464
+!i10b 1
+Z99 !s108 1729708464.000000
+Z100 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1_condition_tb.vhd|
+Z101 !s107 D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1_condition_tb.vhd|
+!i113 0
+R15
+R16
+Atest
+R5
+R6
+DEx4 work 21 mux_4to1_condition_tb 0 22 DJ06Y@MCn4:X>`jRBd@LV3
+!i122 28
+l19
+Z102 L7 26
+V>FmF7D[dPz7K54[US5GX52
+!s100 1;fnOc=NTmT0;hm02nc?83
+R10
+32
+R98
+!i10b 1
+R99
+R100
+R101
+!i113 0
+R15
+R16
+Emux_4to1_selection
+Z103 w1729703323
+R5
+R6
+!i122 10
+R7
+Z104 8D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1_selection.vhd
+Z105 FD:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1_selection.vhd
+l0
+L4 1
+V_b=6MD>iTgfmB3dLcmF:m3
+!s100 Zz<ROlBK=_b?ki=[c1ffh2
+R10
+32
+Z106 !s110 1729703327
+!i10b 1
+Z107 !s108 1729703327.000000
+Z108 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1_selection.vhd|
+Z109 !s107 D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1_selection.vhd|
+!i113 0
+R15
+R16
+Abehav
+R5
+R6
+DEx4 work 18 mux_4to1_selection 0 22 _b=6MD>iTgfmB3dLcmF:m3
+!i122 10
+l13
+L12 9
+VeGnLd<gPlT<LlAWj66aK`3
+!s100 dQ2C^1RIR5LAIR;5XzF@O3
+R10
+32
+R106
+!i10b 1
+R107
+R108
+R109
+!i113 0
+R15
+R16
+Emux_4to1_selection_tb
+Z110 w1729708430
+R5
+R6
+!i122 27
+R7
+Z111 8D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1_selection_tb.vhd
+Z112 FD:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1_selection_tb.vhd
+l0
+L4 1
+Vg=8[kW?2ok5Jh4zl8:>Dj1
+!s100 @=G?ORej6kYOM8TH>]VeV3
+R10
+32
+Z113 !s110 1729708436
+!i10b 1
+Z114 !s108 1729708436.000000
+Z115 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1_selection_tb.vhd|
+Z116 !s107 D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1_selection_tb.vhd|
+!i113 0
+R15
+R16
+Atest
+R5
+R6
+DEx4 work 21 mux_4to1_selection_tb 0 22 g=8[kW?2ok5Jh4zl8:>Dj1
+!i122 27
+l19
+R102
+V]KXWja>h0QJHe9R;dUL[M0
+!s100 AXm9XhBPZdf2;GhT:lYRF1
+R10
+32
+R113
+!i10b 1
+R114
+R115
+R116
+!i113 0
+R15
+R16
+Emux_4to1_tb
+Z117 w1729703850
+R5
+R6
+!i122 15
+R7
+R96
+R97
+l0
+L4 1
+VM?MK^6MVYEoU_cko?E_V@2
+!s100 oV>P7>hO3b[U`aln^4<dN1
+R10
+32
+Z118 !s110 1729703864
+!i10b 1
+Z119 !s108 1729703864.000000
+R100
+R101
+!i113 0
+R15
+R16
+Atest
+R5
+R6
+DEx4 work 11 mux_4to1_tb 0 22 M?MK^6MVYEoU_cko?E_V@2
+!i122 15
+l19
+R102
+V@kPR11:Y?B0aaUSM;63;b1
+!s100 cX@@?Ra>c1^a4:aj;QR_K0
+R10
+32
+R118
+!i10b 1
+R119
+R100
+R101
+!i113 0
+R15
+R16
+Eor_gate
+Z120 w1729702263
+R5
+R6
+!i122 3
+R7
+Z121 8D:/__ModelSim-Projects/Az2_Mux&Comparator/or_gate.vhd
+Z122 FD:/__ModelSim-Projects/Az2_Mux&Comparator/or_gate.vhd
+l0
+L4 1
+VA^2jf25dW0742]2LjXFb31
+!s100 [TG>zHFkb::cY;i8<8b>23
+R10
+32
+Z123 !s110 1729702895
+!i10b 1
+Z124 !s108 1729702895.000000
+Z125 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/__ModelSim-Projects/Az2_Mux&Comparator/or_gate.vhd|
+Z126 !s107 D:/__ModelSim-Projects/Az2_Mux&Comparator/or_gate.vhd|
+!i113 0
+R15
+R16
+Agatelevel
+R5
+R6
+DEx4 work 7 or_gate 0 22 A^2jf25dW0742]2LjXFb31
+!i122 3
+l11
+L10 4
+VOnbX_Ih>eTdg72mU@aQid0
+!s100 4cIhLiQ:V7h<Zk;FF23a01
+R10
+32
+R123
+!i10b 1
+R124
+R125
+R126
+!i113 0
+R15
+R16
+Eor_gate_tb
+Z127 w1729704534
+R5
+R6
+!i122 18
+R7
+Z128 8D:\__ModelSim-Projects\Az2_Mux&Comparator\or_gate_tb.vhd
+Z129 FD:\__ModelSim-Projects\Az2_Mux&Comparator\or_gate_tb.vhd
+l0
+L4 1
+VaVOdeZ4miMWh?A[aoQ1Rg2
+!s100 8LRQf0?kGKc?TMP8`UeZ]3
+R10
+32
+Z130 !s110 1729704539
+!i10b 1
+Z131 !s108 1729704539.000000
+Z132 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-Projects\Az2_Mux&Comparator\or_gate_tb.vhd|
+Z133 !s107 D:\__ModelSim-Projects\Az2_Mux&Comparator\or_gate_tb.vhd|
+!i113 0
+R15
+R16
+Atestbench
+R5
+R6
+DEx4 work 10 or_gate_tb 0 22 aVOdeZ4miMWh?A[aoQ1Rg2
+!i122 18
+l19
+R38
+VeAHjWc2c;9h6bZg]=FJmz3
+!s100 HnkmT`e5a@G>@o`Z[Di=V2
+R10
+32
+R130
+!i10b 1
+R131
+R132
+R133
+!i113 0
+R15
+R16
+Etb_decoder2x4
+w1729705973
+R5
+R6
+!i122 20
+R7
+R61
+R62
+l0
+L4 1
+VcU<@WhDQcfS5>WTXfHHRk3
+!s100 a1AcEWU:W1@`XzPUYV]Wk3
+R10
+32
+!s110 1729705978
+!i10b 1
+!s108 1729705978.000000
+R65
+R66
+!i113 0
+R15
+R16
