@@ -1,0 +1,113 @@
+D:/__ModelSim-projects/Az3_FFs&RippleAdders&SiquenceDetector/moore_two_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\moore_two_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity moore_two_tb
+-- Compiling architecture test of moore_two_tb
+
+} {} {}} D:/__ModelSim-projects/Az3_FFs&RippleAdders&SiquenceDetector/ripple_counter_tb.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none {D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\ripple_counter_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ripple_counter_tb
+-- Compiling architecture test of ripple_counter_tb
+
+} {} {}} D:/__ModelSim-projects/Az3_FFs&RippleAdders&SiquenceDetector/TFF.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none {D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\TFF.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TFF
+-- Compiling architecture Behavioral of TFF
+
+} {} {}} D:/__ModelSim-projects/Az3_FFs&RippleAdders&SiquenceDetector/DFF.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\DFF.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity DFF
+-- Compiling architecture Behavioral of DFF
+
+} {} {}} D:/__ModelSim-projects/Az3_FFs&RippleAdders&SiquenceDetector/ripple_counter.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none {D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\ripple_counter.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ripple_counter
+-- Compiling architecture Behavioral of ripple_counter
+
+} {} {}} D:/__ModelSim-projects/Az3_FFs&RippleAdders&SiquenceDetector/moore_two.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\moore_two.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity moore_two
+-- Compiling architecture Behavioral of moore_two
+
+} {} {}} D:/__ModelSim-projects/Az3_FFs&RippleAdders&SiquenceDetector/moore_1101.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\moore_1101.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity moore_1101
+-- Compiling architecture Behavioral of moore_1101
+
+} {} {}} D:/__ModelSim-projects/Az3_FFs&RippleAdders&SiquenceDetector/DFF_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\DFF_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity DFF_tb
+-- Compiling architecture test of DFF_tb
+
+} {} {}} D:/__ModelSim-projects/Az3_FFs&RippleAdders&SiquenceDetector/TFF_tb.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none {D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\TFF_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TFF_tb
+-- Compiling architecture test of TFF_tb
+
+} {} {}} D:/__ModelSim-projects/Az3_FFs&RippleAdders&SiquenceDetector/mealy_two_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\mealy_two_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mealy_two_tb
+-- Compiling architecture test of mealy_two_tb
+
+} {} {}} D:/__ModelSim-projects/Az3_FFs&RippleAdders&SiquenceDetector/moore_1101_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\moore_1101_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity moore_1101_tb
+-- Compiling architecture test of moore_1101_tb
+
+} {} {}} D:/__ModelSim-projects/Az3_FFs&RippleAdders&SiquenceDetector/mealy_two.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\mealy_two.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mealy_two
+-- Compiling architecture Behavioral of mealy_two
+
+} {} {}} D:/__ModelSim-projects/Az3_FFs&RippleAdders&SiquenceDetector/mealy_1101.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\mealy_1101.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mealy_1101
+-- Compiling architecture Behavioral of mealy_1101
+
+} {} {}} D:/__ModelSim-projects/Az3_FFs&RippleAdders&SiquenceDetector/mealy_1101_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\mealy_1101_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mealy_1101_tb
+-- Compiling architecture test of mealy_1101_tb
+
+} {} {}}

@@ -94,14 +94,6 @@ Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
 -- Compiling entity mux_4to1_condition_tb
 -- Compiling architecture test of mux_4to1_condition_tb
 
-} {} {}} D:/__ModelSim-Projects/Az2_Mux&Comparator/comparator_4bit_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\__ModelSim-Projects\Az2_Mux&Comparator\comparator_4bit_tb.vhd}
-Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity comparator_4bit_tb
--- Compiling architecture Behavioral of comparator_4bit_tb
-
 } {} {}} D:/__ModelSim-Projects/Az2_Mux&Comparator/comparator_1bit.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\__ModelSim-Projects\Az2_Mux&Comparator\comparator_1bit.vhd}
 Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
 -- Loading package STANDARD
@@ -110,13 +102,21 @@ Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
 -- Compiling entity Comparator_1bit
 -- Compiling architecture Behavioral of Comparator_1bit
 
-} {} {}} D:/__ModelSim-Projects/Az2_Mux&Comparator/mux_4-1_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1_tb.vhd}
+} {} {}} D:/__ModelSim-Projects/Az2_Mux&Comparator/comparator_4bit_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\__ModelSim-Projects\Az2_Mux&Comparator\comparator_4bit_tb.vhd}
 Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
--- Compiling entity mux_4to1_tb
--- Compiling architecture test of mux_4to1_tb
+-- Compiling entity comparator_4bit_tb
+-- Compiling architecture Behavioral of comparator_4bit_tb
+
+} {} {}} D:/__ModelSim-Projects/Az2_Mux&Comparator/decoder_2-4.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\__ModelSim-Projects\Az2_Mux&Comparator\decoder_2-4.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decoder_2to4
+-- Compiling architecture behav of decoder_2to4
 
 } {} {}} D:/__ModelSim-Projects/Az2_Mux&Comparator/and_gate_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\__ModelSim-Projects\Az2_Mux&Comparator\and_gate_tb.vhd}
 Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
@@ -126,13 +126,13 @@ Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
 -- Compiling entity and_gate_tb
 -- Compiling architecture testbench of and_gate_tb
 
-} {} {}} D:/__ModelSim-Projects/Az2_Mux&Comparator/decoder_2-4.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\__ModelSim-Projects\Az2_Mux&Comparator\decoder_2-4.vhd}
+} {} {}} D:/__ModelSim-Projects/Az2_Mux&Comparator/mux_4-1_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1_tb.vhd}
 Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
--- Compiling entity decoder_2to4
--- Compiling architecture behav of decoder_2to4
+-- Compiling entity mux_4to1_tb
+-- Compiling architecture test of mux_4to1_tb
 
 } {} {}} D:/__ModelSim-Projects/Az2_Mux&Comparator/mux_4-1_condition.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:\__ModelSim-Projects\Az2_Mux&Comparator\mux_4-1_condition.vhd}
 Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020

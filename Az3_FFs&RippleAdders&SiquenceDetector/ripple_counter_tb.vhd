@@ -21,9 +21,9 @@ architecture test of ripple_counter_tb is
  		unit : ripple_counter port map ( T => t, reset => r, clk => c, Q => q);
 		process begin
 			c <= '0';
-			wait for 100 ns;
+			wait for 50 ns;
 			c <= '1';
-			wait for 100 ns;
+			wait for 50 ns;
 		end process;
 		process begin
 			t <= '0';

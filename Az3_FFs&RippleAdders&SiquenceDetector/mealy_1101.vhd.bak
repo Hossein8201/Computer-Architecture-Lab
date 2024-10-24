@@ -1,16 +1,16 @@
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
-entity moore_1101 is
+entity moore_machine is
 	port(
 		input : in std_logic ;
 		output : out std_logic;
 		clk : in std_logic
 	);
-end moore_1101;
+end moore_machine;
 
-architecture Behavioral of moore_1101 is
-	type state_t is (s0 , s1 , s2, s3, s4);
+architecture Behavioral of moore_machine is
+	type state_t is (s0 , s1 , s2, s3);
 	signal state : state_t := s0;
 	signal next_state : state_t := s0;
 	begin
@@ -36,13 +36,7 @@ architecture Behavioral of moore_1101 is
 				end if;
 			when s3=>
 				if(input = '1') then
-					next_state <= s4;
-				else
-					next_state <= s0;
-				end if;
-			when s4=>
-				if(input = '1') then
-					next_state <= s2;
+					next_state <= s1;
 				else
 					next_state <= s0;
 				end if;
@@ -55,5 +49,5 @@ architecture Behavioral of moore_1101 is
 			state <= next_state;
 		end if;
 	end process;
-	output <= '1' when state = s4 else '0';
+	output <= '1' when (state = s3 and input = '1') else '0';
 end Behavioral;

@@ -21,10 +21,11 @@ architecture test of DFF_tb is
  		unit : DFF port map ( D => d, reset => r, clk => c, Q => q);
 		process begin
 			c <= '0';
-			wait for 100 ns;
+			wait for 50 ns;
 			c <= '1';
-			wait for 100 ns;
+			wait for 50 ns;
 		end process;
+
 		process begin
 			d <= '0';
 			wait for 100 ns;
@@ -36,5 +37,6 @@ architecture test of DFF_tb is
 			wait for 100 ns;
 			d <= '1';
 			wait for 100 ns;
+			wait;
 		end process;
 end test;

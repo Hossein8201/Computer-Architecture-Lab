@@ -21,9 +21,9 @@ architecture test of TFF_tb is
  		unit : TFF port map ( T => t, reset => r, clk => c, Q => q);
 		process begin
 			c <= '0';
-			wait for 50 ns;
+			wait for 100 ns;
 			c <= '1';
-			wait for 50 ns;
+			wait for 100 ns;
 		end process;
 		process begin
 			t <= '0';
@@ -36,6 +36,5 @@ architecture test of TFF_tb is
 			wait for 100 ns;
 			t <= '1';
 			wait for 100 ns;
-			wait;
 		end process;
 end test;

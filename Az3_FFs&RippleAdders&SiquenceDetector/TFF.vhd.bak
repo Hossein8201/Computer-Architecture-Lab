@@ -9,12 +9,14 @@ entity TFF is
 	);
 end TFF;
 architecture Behavioral of TFF is
+	signal temp : std_logic;
 	begin
 		process(clk, reset) begin
 			if(reset = '0') then
-			Q <= '0';
+			temp <= '0';
 			elsif(clk'event and clk = '1') then
-			Q <= Q xor T;
+			temp <= Q xor T;
 			end if;
 		end process;
+	Q <= temp;
 end Behavioral;

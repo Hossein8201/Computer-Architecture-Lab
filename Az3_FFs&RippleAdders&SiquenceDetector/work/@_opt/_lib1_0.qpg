@@ -1,0 +1,881 @@
+m255
+K4
+z2
+!s11e vcom 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/__ModelSim-projects/Az2_Mux&Comparator
+T_opt
+!s110 1729806194
+V1I<TB84d8[E81=d:FT0N60
+04 14 4 work moore_11011_tb test 1
+=1-24fe9a00309f-671abf72-fb-4170
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+T_opt1
+!s110 1729805623
+V0mcc9;oQRH2?j`>nHd;n_3
+04 14 4 work mealy_11011_tb test 1
+=1-24fe9a00309f-671abd37-211-5f84
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1729800013
+VRcfiDB6nB[`DXJhz3Q]I93
+04 17 4 work ripple_counter_tb test 1
+=1-24fe9a00309f-671aa74d-c0-5a54
+R1
+R2
+n@_opt2
+R3
+R0
+Edff
+Z4 w1729644986
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z7 dD:/__ModelSim-projects/Az3_FFs&RippleAdders&SiquenceDetector
+Z8 8D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\DFF.vhd
+Z9 FD:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\DFF.vhd
+l0
+L3 1
+ViR>KhC]ddPdL1kj:8a0XX2
+!s100 oZSF@;Q6QU?l2adUG9dT:3
+Z10 OL;C;2020.4;71
+32
+Z11 !s110 1729798884
+!i10b 1
+Z12 !s108 1729798884.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\DFF.vhd|
+Z14 !s107 D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\DFF.vhd|
+!i113 0
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Abehavioral
+R5
+R6
+DEx4 work 3 dff 0 22 iR>KhC]ddPdL1kj:8a0XX2
+!i122 0
+l12
+L11 11
+VihiS_^57<[BAN]V0zBc_33
+!s100 :oA57cF6G2NkmjW7P[7TY0
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 0
+R15
+R16
+Edff_tb
+Z17 w1729799075
+R5
+R6
+!i122 6
+R7
+Z18 8D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\DFF_tb.vhd
+Z19 FD:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\DFF_tb.vhd
+l0
+L4 1
+VT6:ag`?iEAPze=2^a84Q]3
+!s100 e1@>DP8ZPcD8621[@6?_l0
+R10
+32
+Z20 !s110 1729799080
+!i10b 1
+Z21 !s108 1729799080.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\DFF_tb.vhd|
+Z23 !s107 D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\DFF_tb.vhd|
+!i113 0
+R15
+R16
+Atest
+R5
+R6
+DEx4 work 6 dff_tb 0 22 T6:ag`?iEAPze=2^a84Q]3
+!i122 6
+l20
+L7 36
+Vk5SUJZGzj3KP8VH4kVA9L1
+!s100 GO<QT<GW;kY=<]I0`6e823
+R10
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 0
+R15
+R16
+Emealy_1101
+Z24 w1729802991
+R5
+R6
+!i122 17
+R7
+Z25 8D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\mealy_1101.vhd
+Z26 FD:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\mealy_1101.vhd
+l0
+L4 1
+V=J2zMLjE1ZgCM>]HN=mF>0
+!s100 Xmd0eWN5fTKP8YoX:7C3R0
+R10
+32
+Z27 !s110 1729802998
+!i10b 1
+Z28 !s108 1729802998.000000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\mealy_1101.vhd|
+Z30 !s107 D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\mealy_1101.vhd|
+!i113 0
+R15
+R16
+Abehavioral
+R5
+R6
+DEx4 work 10 mealy_1101 0 22 =J2zMLjE1ZgCM>]HN=mF>0
+!i122 17
+l16
+Z31 L12 42
+Vl5d<zdRo3VJ8BQJVlEQ1[0
+!s100 fXBAA<@F36k3YXBg5;Of>0
+R10
+32
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 0
+R15
+R16
+Emealy_11011_tb
+Z32 w1729805585
+R5
+R6
+!i122 22
+R7
+Z33 8D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\mealy_1101_tb.vhd
+Z34 FD:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\mealy_1101_tb.vhd
+l0
+L4 1
+V5a1Q>2>C2`dUHb8ANLSbA1
+!s100 3e7c@geBcH1JdA0nm7mYI3
+R10
+32
+Z35 !s110 1729805592
+!i10b 1
+Z36 !s108 1729805592.000000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\mealy_1101_tb.vhd|
+Z38 !s107 D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\mealy_1101_tb.vhd|
+!i113 0
+R15
+R16
+Atest
+R5
+R6
+DEx4 work 14 mealy_11011_tb 0 22 5a1Q>2>C2`dUHb8ANLSbA1
+!i122 22
+l18
+Z39 L7 47
+V8IiEGo9Y29h`N1S6Sn9VW2
+!s100 5YbMj^<YJ3QRT=CCcU2h^2
+R10
+32
+R35
+!i10b 1
+R36
+R37
+R38
+!i113 0
+R15
+R16
+Emoore_1101
+Z40 w1729803201
+R5
+R6
+!i122 18
+R7
+Z41 8D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\moore_1101.vhd
+Z42 FD:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\moore_1101.vhd
+l0
+L4 1
+V48nC6SdjTjlZB;T:hOlRE3
+!s100 dhH;lKI?[GG=A:zHdWYC;2
+R10
+32
+Z43 !s110 1729803209
+!i10b 1
+Z44 !s108 1729803208.000000
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\moore_1101.vhd|
+Z46 !s107 D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\moore_1101.vhd|
+!i113 0
+R15
+R16
+Abehavioral
+R5
+R6
+DEx4 work 10 moore_1101 0 22 48nC6SdjTjlZB;T:hOlRE3
+!i122 18
+l16
+L12 48
+VCCXXZlQOSdkCRkO8`>4jg2
+!s100 B^W@_9e_1;dO64Q^]d0ZX2
+R10
+32
+R43
+!i10b 1
+R44
+R45
+R46
+!i113 0
+R15
+R16
+Emoore_11011_tb
+Z47 w1729805554
+R5
+R6
+!i122 23
+R7
+Z48 8D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\moore_1101_tb.vhd
+Z49 FD:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\moore_1101_tb.vhd
+l0
+L4 1
+VBaiTC=<B[GfPfC49j02HM0
+!s100 i8`64PdE^CM6a]Z>^hATB0
+R10
+32
+Z50 !s110 1729805597
+!i10b 1
+Z51 !s108 1729805597.000000
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\moore_1101_tb.vhd|
+Z53 !s107 D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\moore_1101_tb.vhd|
+!i113 0
+R15
+R16
+Atest
+R5
+R6
+DEx4 work 14 moore_11011_tb 0 22 BaiTC=<B[GfPfC49j02HM0
+!i122 23
+l18
+R39
+V2K:V1_lbe:_KXhzaAn1l21
+!s100 8gKfZ[S:RMjh`^47o<G8B0
+R10
+32
+R50
+!i10b 1
+R51
+R52
+R53
+!i113 0
+R15
+R16
+Emoore_machine
+Z54 w1729802837
+R5
+R6
+!i122 16
+R7
+R25
+R26
+l0
+L4 1
+VSbN3SEgo`2hkiMfOSI@2H1
+!s100 G9O3;AL1mG8EadfB;TPAj3
+R10
+32
+Z55 !s110 1729802842
+!i10b 1
+Z56 !s108 1729802841.000000
+R29
+R30
+!i113 0
+R15
+R16
+Abehavioral
+R5
+R6
+DEx4 work 13 moore_machine 0 22 SbN3SEgo`2hkiMfOSI@2H1
+!i122 16
+l16
+R31
+VgTSQR>ioDTmo6Ta5S]f;?2
+!s100 :iaYKl;V5jknd08GLI]n=3
+R10
+32
+R55
+!i10b 1
+R56
+R29
+R30
+!i113 0
+R15
+R16
+Eripple_counter
+Z57 w1729799188
+R5
+R6
+!i122 8
+R7
+Z58 8D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\ripple_counter.vhd
+Z59 FD:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\ripple_counter.vhd
+l0
+L3 1
+VM=`Qm3cl3UTSzAeGl;cNT2
+!s100 Ld9SZLLOgbChLOePaA6Vi3
+R10
+33
+Z60 !s110 1729799218
+!i10b 1
+Z61 !s108 1729799218.000000
+Z62 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\ripple_counter.vhd|
+Z63 !s107 D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\ripple_counter.vhd|
+!i113 0
+Z64 o-work work -2008 -explicit
+R16
+Abehavioral
+R5
+R6
+DEx4 work 14 ripple_counter 0 22 M=`Qm3cl3UTSzAeGl;cNT2
+!i122 8
+l20
+L11 15
+VzY_MOEH8gD>mc3RVm8?iL1
+!s100 h>lch4g:C@e:a8Yg]nlBU1
+R10
+33
+R60
+!i10b 1
+R61
+R62
+R63
+!i113 0
+R64
+R16
+Eripple_counter_tb
+Z65 w1729799400
+R5
+R6
+!i122 12
+R7
+Z66 8D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\ripple_counter_tb.vhd
+Z67 FD:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\ripple_counter_tb.vhd
+l0
+L4 1
+VT7ThOQ=jl=6NTV6J=MIf20
+!s100 An9VG]nZ]oFkeCVAJl=f`3
+R10
+33
+Z68 !s110 1729799413
+!i10b 1
+Z69 !s108 1729799413.000000
+Z70 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\ripple_counter_tb.vhd|
+Z71 !s107 D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\ripple_counter_tb.vhd|
+!i113 0
+R64
+R16
+Atest
+R5
+R6
+DEx4 work 17 ripple_counter_tb 0 22 T7ThOQ=jl=6NTV6J=MIf20
+!i122 12
+l20
+L7 34
+V84e08TC8hWUkX_`oGUWdl0
+!s100 c<L<fV1C1:>JcoIT<8F0T0
+R10
+33
+R68
+!i10b 1
+R69
+R70
+R71
+!i113 0
+R64
+R16
+Etff
+Z72 w1729798945
+R5
+R6
+!i122 4
+R7
+Z73 8D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\TFF.vhd
+Z74 FD:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\TFF.vhd
+l0
+L3 1
+V<FB07>aTz23A:>Ufg[Lk<1
+!s100 2TQJinTW?_Akg^7Ocj@gY0
+R10
+33
+Z75 !s110 1729799007
+!i10b 1
+Z76 !s108 1729799007.000000
+Z77 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\TFF.vhd|
+Z78 !s107 D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\TFF.vhd|
+!i113 0
+R64
+R16
+Abehavioral
+R5
+R6
+DEx4 work 3 tff 0 22 <FB07>aTz23A:>Ufg[Lk<1
+!i122 4
+l12
+L11 10
+V[JPG6d?>]kIck4a;3nF1D1
+!s100 8TPkN<j:>LV7Le;dLl6X=                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                m255
+K4
+z2
+!s11e vcom 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/__ModelSim-projects/Az2_Mux&Comparator
+T_opt
+!s110 1729805268
+VTkVaQg<z9Df_=OB`kHGC;1
+04 14 4 work moore_11011_tb test 1
+=1-24fe9a00309f-671abbd4-2d4-5640
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+T_opt1
+!s110 1729799901
+Vg:g1Z2WEYNL6ejQD2fHb?1
+04 6 4 work tff_tb test 1
+=1-24fe9a00309f-671aa6dd-77-27d8
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1729800013
+VRcfiDB6nB[`DXJhz3Q]I93
+04 17 4 work ripple_counter_tb test 1
+=1-24fe9a00309f-671aa74d-c0-5a54
+R1
+R2
+n@_opt2
+R3
+R0
+Edff
+Z4 w1729644986
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z7 dD:/__ModelSim-projects/Az3_FFs&RippleAdders&SiquenceDetector
+Z8 8D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\DFF.vhd
+Z9 FD:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\DFF.vhd
+l0
+L3 1
+ViR>KhC]ddPdL1kj:8a0XX2
+!s100 oZSF@;Q6QU?l2adUG9dT:3
+Z10 OL;C;2020.4;71
+32
+Z11 !s110 1729798884
+!i10b 1
+Z12 !s108 1729798884.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\DFF.vhd|
+Z14 !s107 D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\DFF.vhd|
+!i113 0
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Abehavioral
+R5
+R6
+DEx4 work 3 dff 0 22 iR>KhC]ddPdL1kj:8a0XX2
+!i122 0
+l12
+L11 11
+VihiS_^57<[BAN]V0zBc_33
+!s100 :oA57cF6G2NkmjW7P[7TY0
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 0
+R15
+R16
+Edff_tb
+Z17 w1729799075
+R5
+R6
+!i122 6
+R7
+Z18 8D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\DFF_tb.vhd
+Z19 FD:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\DFF_tb.vhd
+l0
+L4 1
+VT6:ag`?iEAPze=2^a84Q]3
+!s100 e1@>DP8ZPcD8621[@6?_l0
+R10
+32
+Z20 !s110 1729799080
+!i10b 1
+Z21 !s108 1729799080.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\DFF_tb.vhd|
+Z23 !s107 D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\DFF_tb.vhd|
+!i113 0
+R15
+R16
+Atest
+R5
+R6
+DEx4 work 6 dff_tb 0 22 T6:ag`?iEAPze=2^a84Q]3
+!i122 6
+l20
+L7 36
+Vk5SUJZGzj3KP8VH4kVA9L1
+!s100 GO<QT<GW;kY=<]I0`6e823
+R10
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 0
+R15
+R16
+Emealy_1101
+Z24 w1729802991
+R5
+R6
+!i122 17
+R7
+Z25 8D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\mealy_1101.vhd
+Z26 FD:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\mealy_1101.vhd
+l0
+L4 1
+V=J2zMLjE1ZgCM>]HN=mF>0
+!s100 Xmd0eWN5fTKP8YoX:7C3R0
+R10
+32
+Z27 !s110 1729802998
+!i10b 1
+Z28 !s108 1729802998.000000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\mealy_1101.vhd|
+Z30 !s107 D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\mealy_1101.vhd|
+!i113 0
+R15
+R16
+Abehavioral
+R5
+R6
+DEx4 work 10 mealy_1101 0 22 =J2zMLjE1ZgCM>]HN=mF>0
+!i122 17
+l16
+Z31 L12 42
+Vl5d<zdRo3VJ8BQJVlEQ1[0
+!s100 fXBAA<@F36k3YXBg5;Of>0
+R10
+32
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 0
+R15
+R16
+Emealy_11011_tb
+Z32 w1729804380
+R5
+R6
+!i122 20
+R7
+Z33 8D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\mealy_1101_tb.vhd
+Z34 FD:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\mealy_1101_tb.vhd
+l0
+L4 1
+V5a1Q>2>C2`dUHb8ANLSbA1
+!s100 3e7c@geBcH1JdA0nm7mYI3
+R10
+32
+Z35 !s110 1729804385
+!i10b 1
+Z36 !s108 1729804385.000000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\mealy_1101_tb.vhd|
+Z38 !s107 D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\mealy_1101_tb.vhd|
+!i113 0
+R15
+R16
+Atest
+R5
+R6
+DEx4 work 14 mealy_11011_tb 0 22 5a1Q>2>C2`dUHb8ANLSbA1
+!i122 20
+l18
+Z39 L7 47
+Va]KfcihXH><YzG1L<?V5>1
+!s100 a?i@AB>H9H1c6k19Z[aYc3
+R10
+32
+R35
+!i10b 1
+R36
+R37
+R38
+!i113 0
+R15
+R16
+Emoore_1101
+Z40 w1729803201
+R5
+R6
+!i122 18
+R7
+Z41 8D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\moore_1101.vhd
+Z42 FD:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\moore_1101.vhd
+l0
+L4 1
+V48nC6SdjTjlZB;T:hOlRE3
+!s100 dhH;lKI?[GG=A:zHdWYC;2
+R10
+32
+Z43 !s110 1729803209
+!i10b 1
+Z44 !s108 1729803208.000000
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\moore_1101.vhd|
+Z46 !s107 D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\moore_1101.vhd|
+!i113 0
+R15
+R16
+Abehavioral
+R5
+R6
+DEx4 work 10 moore_1101 0 22 48nC6SdjTjlZB;T:hOlRE3
+!i122 18
+l16
+L12 48
+VCCXXZlQOSdkCRkO8`>4jg2
+!s100 B^W@_9e_1;dO64Q^]d0ZX2
+R10
+32
+R43
+!i10b 1
+R44
+R45
+R46
+!i113 0
+R15
+R16
+Emoore_11011_tb
+Z47 w1729804464
+R5
+R6
+!i122 21
+R7
+Z48 8D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\moore_1101_tb.vhd
+Z49 FD:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\moore_1101_tb.vhd
+l0
+L4 1
+VBaiTC=<B[GfPfC49j02HM0
+!s100 i8`64PdE^CM6a]Z>^hATB0
+R10
+32
+Z50 !s110 1729804470
+!i10b 1
+Z51 !s108 1729804470.000000
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\moore_1101_tb.vhd|
+Z53 !s107 D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\moore_1101_tb.vhd|
+!i113 0
+R15
+R16
+Atest
+R5
+R6
+DEx4 work 14 moore_11011_tb 0 22 BaiTC=<B[GfPfC49j02HM0
+!i122 21
+l18
+R39
+VbYl70@dYldWNNgVSDOdA^0
+!s100 B8DI8imEMan[O0n9dVigj1
+R10
+32
+R50
+!i10b 1
+R51
+R52
+R53
+!i113 0
+R15
+R16
+Emoore_machine
+Z54 w1729802837
+R5
+R6
+!i122 16
+R7
+R25
+R26
+l0
+L4 1
+VSbN3SEgo`2hkiMfOSI@2H1
+!s100 G9O3;AL1mG8EadfB;TPAj3
+R10
+32
+Z55 !s110 1729802842
+!i10b 1
+Z56 !s108 1729802841.000000
+R29
+R30
+!i113 0
+R15
+R16
+Abehavioral
+R5
+R6
+DEx4 work 13 moore_machine 0 22 SbN3SEgo`2hkiMfOSI@2H1
+!i122 16
+l16
+R31
+VgTSQR>ioDTmo6Ta5S]f;?2
+!s100 :iaYKl;V5jknd08GLI]n=3
+R10
+32
+R55
+!i10b 1
+R56
+R29
+R30
+!i113 0
+R15
+R16
+Eripple_counter
+Z57 w1729799188
+R5
+R6
+!i122 8
+R7
+Z58 8D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\ripple_counter.vhd
+Z59 FD:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\ripple_counter.vhd
+l0
+L3 1
+VM=`Qm3cl3UTSzAeGl;cNT2
+!s100 Ld9SZLLOgbChLOePaA6Vi3
+R10
+33
+Z60 !s110 1729799218
+!i10b 1
+Z61 !s108 1729799218.000000
+Z62 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\ripple_counter.vhd|
+Z63 !s107 D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\ripple_counter.vhd|
+!i113 0
+Z64 o-work work -2008 -explicit
+R16
+Abehavioral
+R5
+R6
+DEx4 work 14 ripple_counter 0 22 M=`Qm3cl3UTSzAeGl;cNT2
+!i122 8
+l20
+L11 15
+VzY_MOEH8gD>mc3RVm8?iL1
+!s100 h>lch4g:C@e:a8Yg]nlBU1
+R10
+33
+R60
+!i10b 1
+R61
+R62
+R63
+!i113 0
+R64
+R16
+Eripple_counter_tb
+Z65 w1729799400
+R5
+R6
+!i122 12
+R7
+Z66 8D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\ripple_counter_tb.vhd
+Z67 FD:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\ripple_counter_tb.vhd
+l0
+L4 1
+VT7ThOQ=jl=6NTV6J=MIf20
+!s100 An9VG]nZ]oFkeCVAJl=f`3
+R10
+33
+Z68 !s110 1729799413
+!i10b 1
+Z69 !s108 1729799413.000000
+Z70 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\ripple_counter_tb.vhd|
+Z71 !s107 D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\ripple_counter_tb.vhd|
+!i113 0
+R64
+R16
+Atest
+R5
+R6
+DEx4 work 17 ripple_counter_tb 0 22 T7ThOQ=jl=6NTV6J=MIf20
+!i122 12
+l20
+L7 34
+V84e08TC8hWUkX_`oGUWdl0
+!s100 c<L<fV1C1:>JcoIT<8F0T0
+R10
+33
+R68
+!i10b 1
+R69
+R70
+R71
+!i113 0
+R64
+R16
+Etff
+Z72 w1729798945
+R5
+R6
+!i122 4
+R7
+Z73 8D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\TFF.vhd
+Z74 FD:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\TFF.vhd
+l0
+L3 1
+V<FB07>aTz23A:>Ufg[Lk<1
+!s100 2TQJinTW?_Akg^7Ocj@gY0
+R10
+33
+Z75 !s110 1729799007
+!i10b 1
+Z76 !s108 1729799007.000000
+Z77 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\TFF.vhd|
+Z78 !s107 D:\__ModelSim-projects\Az3_FFs&RippleAdders&SiquenceDetector\TFF.vhd|
+!i113 0
+R64
+R16
+Abehavioral
+R5
+R6
+DEx4 work 3 tff 0 22 <FB07>aTz23A:>Ufg[Lk<1
+!i122 4
+l12
+L11 10
+V[JPG6d?>]kIck4a;3nF1D1
+!s100 8TPkN<j:>LV7Le;dLl6X=3
+R10
+33
